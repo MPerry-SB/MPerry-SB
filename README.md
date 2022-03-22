@@ -1,3 +1,6 @@
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MPerry-SB)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
 ```python
 
 import ApprenticeSoftwareEngineer from 'MitchellPerry';
@@ -18,5 +21,3 @@ class Skills extends ApprenticeSoftwareEngineer {
 
 ```
 
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MPerry-SB)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
