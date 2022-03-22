@@ -1,18 +1,15 @@
-### Hi there 👋
+import ApprenticeSoftwareEngineer from 'MitchellPerry';
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPerry-SB&langs_count=8)](https://github.com/MPerry-SB/github-readme-stats)
+class Bio extends SoftwareDeveloper {
+  name     = 'Mitchell Perry';
+  title    = 'Apprentice Software Engineer';
+  location = 'UK';
+}
 
-
-<!--
-**MPerry-SB/MPerry-SB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
+class Skills extends ApprenticeSoftwareEngineer {
+  testing = ['Always - TDD (Test Driven Development)'];
+  languages  = ['Ruby', 'HTML', 'CSS', 'HAML', 'Javascript', 'MQL5'];
+  tools  = ['Github', 'VS Code', 'Docker', 'AirBrake'];
+  databases  = ['MongoDB', 'PostgreSQL'];
+  frameworks = ['Ruby On Rails', 'React'];
+}
