@@ -9,7 +9,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends ApprenticeSoftwareEngineer {
-  testing = ['Always - TDD (Test Driven Development)'];
+  method = ['Test Driven Development'];
   languages  = ['Ruby', 'Python', 'HTML', 'CSS', 'HAML', 'Javascript', 'MQL5'];
   tools  = ['Github', 'VS Code', 'Docker', 'AirBrake'];
   databases  = ['MongoDB', 'PostgreSQL'];
