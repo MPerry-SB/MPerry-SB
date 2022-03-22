@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=MPerry-SB)](https://github.com/MPerry-SB/github-readme-stats)
-
-
-
+![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=MPerry-SB&count_private=true)
 
 
 
