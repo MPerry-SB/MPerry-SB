@@ -15,8 +15,8 @@ class Skills extends ApprenticeSoftwareEngineer {
   method = ['Test Driven Development'];
   languages  = ['Ruby', 'Python', 'HTML', 'CSS', 'HAML', 'Javascript', 'MQL5'];
   tools  = ['Github', 'VS Code', 'Docker', 'AirBrake'];
-  databases  = ['MongoDB', 'PostgreSQL'];
-  frameworks = ['Ruby On Rails', 'React'];
+  databases  = ['MongoDB', 'SQL'];
+  frameworks = ['Rails'];
 }
 
 ```
