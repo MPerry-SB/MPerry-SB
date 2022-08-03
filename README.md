@@ -3,7 +3,7 @@
 
 ```python
 
-import ApprenticeSoftwareEngineer from 'MitchellPerry';
+import JuniorSoftwareEngineer from 'MitchellPerry';
 
 class Bio extends JuniorSoftwareDeveloper {
   name     = 'Mitchell Perry';
