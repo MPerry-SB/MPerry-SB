@@ -5,13 +5,13 @@
 
 import ApprenticeSoftwareEngineer from 'MitchellPerry';
 
-class Bio extends ApprenticeSoftwareDeveloper {
+class Bio extends JuniorSoftwareDeveloper {
   name     = 'Mitchell Perry';
   title    = 'Apprentice Software Engineer';
   location = 'UK';
 }
 
-class Skills extends ApprenticeSoftwareEngineer {
+class Skills extends JuniorSoftwareEngineer {
   method = ['TDD'];
   languages  = ['Ruby', 'HTML', 'CSS', 'HAML'];
   tools  = ['Github', 'VS Code', 'Docker', 'AirBrake'];
