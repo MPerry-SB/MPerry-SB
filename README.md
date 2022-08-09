@@ -5,9 +5,9 @@
 
 import JuniorSoftwareEngineer from 'MitchellPerry';
 
-class Bio extends JuniorSoftwareDeveloper {
+class Bio extends JuniorSoftwareEngineer {
   name     = 'Mitchell Perry';
-  title    = 'Apprentice Software Engineer';
+  title    = 'JuniorSoftwareEngineer';
   location = 'UK';
 }
 
