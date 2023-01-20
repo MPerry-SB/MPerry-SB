@@ -1,23 +1,18 @@
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MPerry-SB)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
-```python
+```Ruby
+class JuniorSoftwareEngineer
+  name     = 'Mitchell Perry'
+  title    = 'JuniorSoftwareEngineer'
+  location = 'UK'
+end
 
-import JuniorSoftwareEngineer from 'MitchellPerry';
-
-class Bio extends JuniorSoftwareEngineer {
-  name     = 'Mitchell Perry';
-  title    = 'JuniorSoftwareEngineer';
-  location = 'UK';
-}
-
-class Skills extends JuniorSoftwareEngineer {
-  method = ['TDD'];
-  languages  = ['Ruby', 'HTML', 'CSS', 'HAML'];
-  tools  = ['Github', 'VS Code', 'Docker', 'AirBrake'];
-  databases  = ['MongoDB', 'SQL'];
-  frameworks = ['Rails'];
-}
-
+class Skills < JuniorSoftwareEngineer
+  method = ['TDD']
+  languages = ['Ruby', 'MQL5', 'HTML', 'CSS', 'HAML']
+  frameworks = ['Ruby on Rails']
+  tools  = ['Github', 'VS Code']
+  databases  = ['MongoDB', 'SQL']
+end
 ```
-
