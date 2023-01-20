@@ -4,15 +4,15 @@
 ```Ruby
 class JuniorSoftwareEngineer
   name     = 'Mitchell Perry'
-  title    = 'JuniorSoftwareEngineer'
+  title    = 'Junior Software Engineer'
   location = 'UK'
 end
 
 class Skills < JuniorSoftwareEngineer
-  method = ['TDD']
-  languages = ['Ruby', 'MQL5', 'HTML', 'CSS', 'HAML']
+  method     = ['TDD']
+  languages  = ['Ruby', 'MQL5', 'HTML', 'CSS', 'HAML']
   frameworks = ['Ruby on Rails']
-  tools  = ['Github', 'VS Code']
+  tools      = ['Github', 'VS Code']
   databases  = ['MongoDB', 'SQL']
 end
 ```
