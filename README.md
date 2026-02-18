@@ -4,7 +4,7 @@
 ```Ruby
 class JuniorSoftwareEngineer
   name     = 'Mitchell Perry'
-  title    = 'Junior Software Engineer'
+  title    = 'Software Engineer'
   location = 'UK'
 end
 
