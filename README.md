@@ -2,13 +2,13 @@
 
 
 ```Ruby
-class JuniorSoftwareEngineer
+class SoftwareEngineer
   name     = 'Mitchell Perry'
   title    = 'Software Engineer'
   location = 'UK'
 end
 
-class Skills < JuniorSoftwareEngineer
+class Skills < SoftwareEngineer
   method     = ['TDD']
   languages  = ['Ruby', 'MQL5', 'HTML', 'CSS', 'HAML']
   frameworks = ['Ruby on Rails']
