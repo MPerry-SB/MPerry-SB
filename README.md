@@ -8,78 +8,89 @@
 
 <br/>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MPerry-SB&left_color=0f2027&right_color=36bcf7&left_text=visitors)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MPerry-SB&left_color=0f2027&right_color=36bcf7&left_text=visitors" alt="Visitor count" />
 
 </div>
 
 <br/>
 
-<br/>
-
-## 🛠️ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
 
 <table>
   <tr>
-    <th align="center">🧩 Languages</th>
-    <th align="center">🏗️ Frameworks</th>
-    <th align="center">⚙️ Tools &amp; Infra</th>
+    <td align="right"><b>Backend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ruby,rails" height="48" alt="Ruby, Rails" /></a>
+    </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
-      <img src="https://img.shields.io/badge/MQL5-1F6FEB?style=for-the-badge&logoColor=white" alt="MQL5" />
+    <td align="right"><b>Frontend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" height="48" alt="TypeScript, JavaScript, React, Next.js" /></a>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" /><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </tr>
+  <tr>
+    <td align="right"><b>Infra &amp; Delivery</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,aws" height="48" alt="Docker, GitHub Actions, AWS" /></a>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  </tr>
+  <tr>
+    <td align="right"><b>Algo Trading</b></td>
+    <td align="left">
+      <img src="assets/icons/mql5.svg" height="48" alt="MQL5" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI Tooling</b></td>
+    <td align="left">
+      <img src="assets/icons/claude.svg" height="48" alt="Claude" />&nbsp;&nbsp;
+      <img src="assets/icons/copilot.svg" height="48" alt="GitHub Copilot" />&nbsp;&nbsp;
+      <img src="assets/icons/cursor.svg" height="48" alt="Cursor" />
     </td>
   </tr>
 </table>
 
-</div>
-
-<br/>
-
-## 🤖 AI-Augmented Engineering
-
-<div align="center">
-
-I treat AI as part of the toolchain, not a novelty. From pairing on architecture and generating tests to automated code review, it's woven into how I work every day.
-
-<br/>
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logoColor=white)
+<sub>AI is part of the toolchain, not a novelty: pairing on design, generating tests, reviewing code, shipping faster.</sub>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
-<a href="https://github.com/MPerry-SB">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MPerry-SB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=36bcf7&icon_color=36bcf7&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MPerry-SB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=36bcf7&text_color=c9d1d9&hide=python" alt="Top languages" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/snake-dark.svg" alt="Contribution snake" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/cards/0-profile-details.svg" alt="Profile details" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/cards/3-stats.svg" alt="Stats" width="49%" />
+<img src="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/cards/4-productive-time.svg" alt="Productive time" width="49%" />
+
+<img src="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/cards/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+<img src="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/cards/2-most-commit-language.svg" alt="Most committed language" width="49%" />
 
 <br/><br/>
 
 <a href="https://github.com/MPerry-SB">
-  <img src="https://streak-stats.demolab.com?user=MPerry-SB&theme=tokyonight&hide_border=true&background=0f2027&ring=36bcf7&fire=36bcf7&currStreakLabel=36bcf7" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=MPerry-SB&theme=tokyonight&hide_border=true&background=1a1b27&ring=36bcf7&fire=36bcf7&currStreakLabel=36bcf7" alt="GitHub streak" />
 </a>
 
 </div>
