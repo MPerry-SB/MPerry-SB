@@ -1,0 +1,56 @@
+name: Generate profile assets
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-assets.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#36bcf7&color_dots=#161b22,#0f3b52,#1a6a8f,#25a0cc,#36bcf7
+            dist/snake-light.svg?palette=github-light&color_snake=#0e8ec7&color_dots=#ebedf0,#b3e9ff,#6fd3fb,#36bcf7,#0e8ec7
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          NAME: "Mitchell Perry"
+          UTC_OFFSET: 0
+          EXCLUDE: "Python"
+          THEME: "tokyonight"
+          ANIMATION: "rise"
+          AUTO_PUSH: false
+
+      - name: Collect assets
+        run: |
+          mkdir -p dist/cards
+          cp profile-summary-card-output/tokyonight/*.svg dist/cards/
+          ls -R dist
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+          commit_message: "chore: regenerate profile assets"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
