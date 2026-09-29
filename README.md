@@ -14,13 +14,6 @@
 
 <br/>
 
-## 🧭 About Me
-
-- 💼 Software Engineer based in the **UK**, building full-stack products with **Ruby on Rails** and **TypeScript**
-- 📈 Writing **MQL5** expert advisors and indicators for algorithmic trading
-- 🤖 Fluent in **AI-assisted engineering**, using LLM tooling daily to design, build, review and ship faster
-- ☁️ Comfortable across the delivery pipeline: containers, CI/CD and cloud infrastructure
-
 <br/>
 
 ## 🛠️ Tech Stack
