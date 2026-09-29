@@ -47,8 +47,7 @@
     <td align="right"><b>AI Tooling</b></td>
     <td align="left">
       <img src="assets/icons/claude.svg" height="48" alt="Claude" />&nbsp;&nbsp;
-      <img src="assets/icons/copilot.svg" height="48" alt="GitHub Copilot" />&nbsp;&nbsp;
-      <img src="assets/icons/cursor.svg" height="48" alt="Cursor" />
+      <img src="assets/icons/copilot.svg" height="48" alt="GitHub Copilot" />
     </td>
   </tr>
 </table>
