@@ -38,12 +38,6 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Algo Trading</b></td>
-    <td align="left">
-      <img src="assets/icons/mql5.svg" height="48" alt="MQL5" />
-    </td>
-  </tr>
-  <tr>
     <td align="right"><b>AI Tooling</b></td>
     <td align="left">
       <img src="assets/icons/claude.svg" height="48" alt="Claude" />&nbsp;&nbsp;
