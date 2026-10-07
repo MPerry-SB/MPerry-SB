@@ -74,14 +74,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/cards/3-stats.svg" alt="Stats" width="49%" />
-<img src="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/cards/4-productive-time.svg" alt="Productive time" width="49%" />
-
-<img src="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/cards/1-repos-per-language.svg" alt="Repos per language" width="49%" />
-<img src="https://raw.githubusercontent.com/MPerry-SB/MPerry-SB/output/cards/2-most-commit-language.svg" alt="Most committed language" width="49%" />
-
-<br/><br/>
-
 <a href="https://github.com/MPerry-SB">
   <img src="https://streak-stats.demolab.com?user=MPerry-SB&theme=tokyonight&hide_border=true&background=1a1b27&ring=36bcf7&fire=36bcf7&currStreakLabel=36bcf7" alt="GitHub streak" />
 </a>
