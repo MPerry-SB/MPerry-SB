@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mitchell%20Perry&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20UK&descSize=22&descAlignY=60" width="100%" />
 
 <a href="https://github.com/MPerry-SB">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Ruby+%26+Rails+on+the+backend;TypeScript%2C+React+%26+Next.js+on+the+frontend;MQL5+for+algorithmic+trading;Shipping+faster+with+AI-assisted+workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Ruby+%26+Rails+on+the+backend;TypeScript%2C+React+%26+Next.js+on+the+frontend;Shipping+faster+with+AI-assisted+workflows" alt="Typing SVG" />
 </a>
 
 <br/>
